@@ -1,2 +1,2 @@
-class Dmo{
+public class Demo{
 }
